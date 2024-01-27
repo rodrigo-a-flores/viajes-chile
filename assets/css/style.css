@@ -1,0 +1,61 @@
+h2{
+    font-family: "Vollkorn";
+    font-weight: 500;
+    font-size: 25px;
+}
+p{
+    font-family: "Cormorant Garamond";
+    font-weight: 700;
+    font-size: 17px;
+}
+.imgH{
+    height: 180px;
+}
+textarea{
+    height: 200px;
+}
+.bg-barra{
+   background: #000;
+}
+.navbar a{
+    font-weight: bold;
+    color: #fff;
+}
+.fullContainer{
+    width: 100%;
+    min-height: 80px;
+    height: 80px;
+    background-color: #0dcaf0;
+    display: flex;
+    justify-content: center;
+}
+.containerFooter{
+    display: flex;
+    color: #fff;
+    width: 87%;
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.textLogo{
+    font-size: 20px;
+    vertical-align: center;
+}
+.textLogo a, .iconsFooter a{
+    text-decoration: none;
+    color: #fff;
+}
+.iconsFooter i{
+    padding: 8px 5px;
+    font-size: 1.5em;
+}
+@media screen and (max-width: 426px) {
+    #quienesSomos{
+        display: none;
+    }
+    .containerFooter{
+        flex-direction: column;
+        padding: 10px 0px;
+    }
+}

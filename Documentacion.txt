@@ -1,0 +1,30 @@
+Font family
+1. Vollkorn (titulos)
+	a) Regular (400)
+	b) Medium (500)
+	c) Bold (700)
+2. Cormorant Garamond (textos/parrafos)
+	a) Light (300)
+	b) Medium (500)
+	c) Bold (700)
+
+Font Awesome Icon
+1. Facebook <i class="fa-brands fa-square-facebook"></i>
+2. Github <i class="fa-brands fa-square-github"></i>
+3. LinkedIn <i class="fa-brands fa-linkedin"></i>
+4. Twitter <i class="fa-brands fa-square-twitter"></i>
+
+5. Avion <i class="fa-solid fa-plane"></i>
+6. Montaña <i class="fa-solid fa-mountain"></i>
+7. Ruta <i class="fa-solid fa-route"></i>
+
+Components (Necesarios para crear la pagina)
+1. NavBar
+2. Button
+3. Carousel
+4. Cards
+
+Forms (Para el formulario)
+1. Floating Labels
+	a) Example
+	b) Text Area
